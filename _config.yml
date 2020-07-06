@@ -1,0 +1,8 @@
+title: Tjgoff.GitHub.io
+description: TJ Goff's site
+google_analytics: UA-73276402-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
